@@ -1,2 +1,2 @@
 # 👋 Hi, I'm John
-- 📚 Education: cs spec at uoft
+- 📚: cs spec at uoft
