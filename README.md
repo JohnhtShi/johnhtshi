@@ -1,2 +1,2 @@
 # 👋 Hi, I'm John
-- 📚 Education: CS Specialist at UofT
+- 📚 Education: cs spec at uoft
